@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hello there, i like golang and i have iterm2!
